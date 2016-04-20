@@ -1,0 +1,71 @@
+TimeStamp.lo: TimeStamp.cpp /usr/include/stdc-predef.h \
+ /home/andy/workspace/log4cpp_wrapper-/branches/0.1/log4cpp/include/log4cpp/TimeStamp.hh \
+ /home/andy/workspace/log4cpp_wrapper-/branches/0.1/log4cpp/include/log4cpp/Portability.hh \
+ /home/andy/workspace/log4cpp_wrapper-/branches/0.1/log4cpp/include/log4cpp/config.h \
+ /home/andy/workspace/log4cpp_wrapper-/branches/0.1/log4cpp/include/log4cpp/Export.hh \
+ /usr/include/c++/4.8/cstring \
+ /usr/include/i386-linux-gnu/c++/4.8/bits/c++config.h \
+ /usr/include/i386-linux-gnu/c++/4.8/bits/os_defines.h \
+ /usr/include/features.h /usr/include/i386-linux-gnu/sys/cdefs.h \
+ /usr/include/i386-linux-gnu/bits/wordsize.h \
+ /usr/include/i386-linux-gnu/gnu/stubs.h \
+ /usr/include/i386-linux-gnu/gnu/stubs-32.h \
+ /usr/include/i386-linux-gnu/c++/4.8/bits/cpu_defines.h \
+ /usr/include/string.h /usr/lib/gcc/i686-linux-gnu/4.8/include/stddef.h \
+ /usr/include/xlocale.h /usr/include/i386-linux-gnu/sys/time.h \
+ /usr/include/i386-linux-gnu/bits/types.h \
+ /usr/include/i386-linux-gnu/bits/typesizes.h /usr/include/time.h \
+ /usr/include/i386-linux-gnu/bits/time.h \
+ /usr/include/i386-linux-gnu/sys/select.h \
+ /usr/include/i386-linux-gnu/bits/select.h \
+ /usr/include/i386-linux-gnu/bits/sigset.h
+
+/usr/include/stdc-predef.h:
+
+/home/andy/workspace/log4cpp_wrapper-/branches/0.1/log4cpp/include/log4cpp/TimeStamp.hh:
+
+/home/andy/workspace/log4cpp_wrapper-/branches/0.1/log4cpp/include/log4cpp/Portability.hh:
+
+/home/andy/workspace/log4cpp_wrapper-/branches/0.1/log4cpp/include/log4cpp/config.h:
+
+/home/andy/workspace/log4cpp_wrapper-/branches/0.1/log4cpp/include/log4cpp/Export.hh:
+
+/usr/include/c++/4.8/cstring:
+
+/usr/include/i386-linux-gnu/c++/4.8/bits/c++config.h:
+
+/usr/include/i386-linux-gnu/c++/4.8/bits/os_defines.h:
+
+/usr/include/features.h:
+
+/usr/include/i386-linux-gnu/sys/cdefs.h:
+
+/usr/include/i386-linux-gnu/bits/wordsize.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs-32.h:
+
+/usr/include/i386-linux-gnu/c++/4.8/bits/cpu_defines.h:
+
+/usr/include/string.h:
+
+/usr/lib/gcc/i686-linux-gnu/4.8/include/stddef.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/i386-linux-gnu/sys/time.h:
+
+/usr/include/i386-linux-gnu/bits/types.h:
+
+/usr/include/i386-linux-gnu/bits/typesizes.h:
+
+/usr/include/time.h:
+
+/usr/include/i386-linux-gnu/bits/time.h:
+
+/usr/include/i386-linux-gnu/sys/select.h:
+
+/usr/include/i386-linux-gnu/bits/select.h:
+
+/usr/include/i386-linux-gnu/bits/sigset.h:

@@ -1,0 +1,15 @@
+PortabilityImpl.lo: PortabilityImpl.cpp /usr/include/stdc-predef.h \
+ PortabilityImpl.hh \
+ /home/andy/workspace/log4cpp_wrapper-/branches/0.1/log4cpp/include/log4cpp/Portability.hh \
+ /home/andy/workspace/log4cpp_wrapper-/branches/0.1/log4cpp/include/log4cpp/config.h \
+ /home/andy/workspace/log4cpp_wrapper-/branches/0.1/log4cpp/include/log4cpp/Export.hh
+
+/usr/include/stdc-predef.h:
+
+PortabilityImpl.hh:
+
+/home/andy/workspace/log4cpp_wrapper-/branches/0.1/log4cpp/include/log4cpp/Portability.hh:
+
+/home/andy/workspace/log4cpp_wrapper-/branches/0.1/log4cpp/include/log4cpp/config.h:
+
+/home/andy/workspace/log4cpp_wrapper-/branches/0.1/log4cpp/include/log4cpp/Export.hh:

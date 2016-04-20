@@ -1,0 +1,1 @@
+/home/andy/workspace/log4cpp_wrapper-/branches/0.1/log4cpp/CMakeFiles/log4cpp.dir
